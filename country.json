@@ -1,0 +1,53 @@
+{
+  "countries" : [
+	{ "code" : "AD", "cn_name" : "安道尔", "tw_name" : "安道尔", "en_name" : "Andorra" },
+	{ "code" : "AE", "cn_name" : "阿联酋", "tw_name" : "阿联", "en_name" : "United Arab Emirates" },
+    { "code" : "AF", "cn_name" : "阿富汗", "tw_name" : "阿富汗", "en_name" : "Afghanistan" },
+	{ "code" : "AG", "cn_name" : "安提瓜和巴布达", "tw_name" : "安提瓜和巴布达", "en_name" : "Antigua & Barbuda" },
+	{ "code" : "AI", "cn_name" : "安圭拉", "tw_name" : "英属安圭拉", "en_name" : "Anguilla" },
+	{ "code" : "AL", "cn_name" : "阿尔巴尼亚", "tw_name" : "阿爾巴尼亞", "en_name" : "Albania" },
+	{ "code" : "AM", "cn_name" : "亚美尼亚", "tw_name" : "亞美尼亞", "en_name" : "Armenia" },
+    { "code" : "AO", "cn_name" : "安哥拉", "tw_name" : "安哥拉", "en_name" : "Angola" },
+    { "code" : "AQ", "cn_name" : "南极洲", "tw_name" : "南極洲", "en_name" : "Antarctica" },
+    { "code" : "AR", "cn_name" : "阿根廷", "tw_name" : "阿根廷", "en_name" : "Argentina" },
+    { "code" : "AS", "cn_name" : "美属萨摩亚", "tw_name" : "美属萨摩亚", "en_name" : "American Samoa" },
+    { "code" : "AT", "cn_name" : "奥地利", "tw_name" : "奥地利", "en_name" : "Austria" },
+    { "code" : "AU", "cn_name" : "澳大利亚", "tw_name" : "澳洲", "en_name" : "Australia" },
+    { "code" : "AW", "cn_name" : "阿鲁巴", "tw_name" : "阿鲁巴", "en_name" : "Aruba" },
+    { "code" : "AX", "cn_name" : "奥兰群岛", "tw_name" : "奥兰群岛", "en_name" : "Aland Island" },
+    { "code" : "AZ", "cn_name" : "阿塞拜疆", "tw_name" : "阿塞拜疆", "en_name" : "Azerbaijan" },
+    
+    { "code" : "BA", "cn_name" : "波黑", "tw_name" : "波黑", "en_name" : "Bosnia Hercegovina" },
+    { "code" : "BB", "cn_name" : "巴巴多斯", "tw_name" : "巴巴多斯", "en_name" : "Barbados" },
+    { "code" : "BD", "cn_name" : "孟加拉", "tw_name" : "孟加拉", "en_name" : "Bangladesh" },
+	{ "code" : "BE", "cn_name" : "比利时", "tw_name" : "比利时", "en_name" : "Belgium" },
+    { "code" : "BF", "cn_name" : "布基纳法索", "tw_name" : "布基纳法索", "en_name" : "Burkina" },
+	{ "code" : "BG", "cn_name" : "保加利亚", "tw_name" : "保加利亚", "en_name" : "Bulgaria" },
+	{ "code" : "BH", "cn_name" : "巴林", "tw_name" : "巴林", "en_name" : "Bahrain" },
+	{ "code" : "BI", "cn_name" : "布隆迪", "tw_name" : "布隆迪", "en_name" : "Burundi" },
+	{ "code" : "BJ", "cn_name" : "贝宁", "tw_name" : "贝宁", "en_name" : "Benin" },
+	{ "code" : "BL", "cn_name" : "圣巴泰勒米岛", "tw_name" : "圣巴瑟米", "en_name" : "Saint Barthélemy" },
+	{ "code" : "BM", "cn_name" : "百慕大", "tw_name" : "百慕大", "en_name" : "Bermuda" },
+	{ "code" : "BN", "cn_name" : "文莱", "tw_name" : "", "en_name" : "Brunei Darussalam" },
+	{ "code" : "BO", "cn_name" : "玻利维亚", "tw_name" : "玻利维亚", "en_name" : "Bolivia" },
+	{ "code" : "BQ", "cn_name" : "荷兰加勒比区", "tw_name" : "荷兰加勒比区", "en_name" : "Caribbean Netherlands" },
+	{ "code" : "BR", "cn_name" : "巴西", "tw_name" : "巴西", "en_name" : "Brazil" },
+	{ "code" : "BS", "cn_name" : "巴哈马", "tw_name" : "巴哈马", "en_name" : "Bahamas" },
+	{ "code" : "BT", "cn_name" : "不丹", "tw_name" : "不丹", "en_name" : "Bhutan" },
+	{ "code" : "BV", "cn_name" : "布韦岛", "tw_name" : "布威岛", "en_name" : "Bouvet Island" },
+	{ "code" : "BW", "cn_name" : "博茨瓦纳", "tw_name" : "博茨瓦纳", "en_name" : "Botswana" },
+    { "code" : "BY", "cn_name" : "白俄罗斯", "tw_name" : "白俄罗斯", "en_name" : "Belarus" },
+    { "code" : "BZ", "cn_name" : "伯利兹", "tw_name" : "伯利兹", "en_name" : "Belize" },
+	
+    { "code" : "CA", "cn_name" : "加拿大", "tw_name" : "加拿大", "en_name" : "Canada" },
+    { "code" : "CC", "cn_name" : "科科斯群岛", "tw_name" : "可可斯群岛", "en_name" : "Cocos Islands" },
+    { "code" : "CF", "cn_name" : "中非", "tw_name" : "中非", "en_name" : "Central African Republic" },
+    
+    
+    
+    
+  ],
+  "country" : {
+    "AF" : { "cn_name" : "阿富汗", "tw_name" : "", "en_name" : "Afghanistan" }
+  }
+}
